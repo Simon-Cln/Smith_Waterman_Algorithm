@@ -1,0 +1,29 @@
+>random sequence 1 consisting of 10 bases.
+GTCGATTTGA
+
+>random sequence 2 consisting of 10 bases.
+ACGAAAGAGG
+
+>random sequence 3 consisting of 10 bases.
+TTCTGTCTGA
+
+>random sequence 4 consisting of 10 bases.
+ACTGGCATTC
+
+>random sequence 5 consisting of 10 bases.
+CGTACCGTCG
+
+>random sequence 6 consisting of 10 bases.
+GGCCCAAGGA
+
+>random sequence 7 consisting of 10 bases.
+CAATAGTCCG
+
+>random sequence 8 consisting of 10 bases.
+TTACAGGTGT
+
+>random sequence 9 consisting of 10 bases.
+ACTTGTCGTC
+
+>random sequence 10 consisting of 10 bases.
+CTACGCCTAC
